@@ -32,7 +32,6 @@ class CustomHeader extends Component{
             <div>
                 <Nav />
                 <div>
-                    <h3 style={{textAlign: 'center'}}>Custom header<ViewSrcCode srcCodeUrl="https://github.com/StephenChou1017/react-big-scheduler/blob/master/example/CustomHeader.js" /></h3>
                     <Scheduler schedulerData={viewModel}
                                prevClick={this.prevClick}
                                nextClick={this.nextClick}

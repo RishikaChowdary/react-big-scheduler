@@ -36,7 +36,6 @@ class InfiniteScroll2 extends Component{
             <div>
                 <Nav />
                 <div>
-                    <h3 style={{textAlign: 'center'}}>Infinite scroll 2<ViewSrcCode srcCodeUrl="https://github.com/StephenChou1017/react-big-scheduler/blob/master/example/InfiniteScroll2.js" /></h3>
                     <Scheduler schedulerData={viewModel}
                                prevClick={this.prevClick}
                                nextClick={this.nextClick}

@@ -31,7 +31,6 @@ class Basic extends Component{
             <div>
                 <Nav />
                 <div>
-                    <h3 style={{textAlign: 'center'}}>3 View Types (take month for example)<ViewSrcCode srcCodeUrl="https://github.com/StephenChou1017/react-big-scheduler/blob/master/example/Views.js" /></h3>
                     <Scheduler schedulerData={viewModel}
                                prevClick={this.prevClick}
                                nextClick={this.nextClick}
