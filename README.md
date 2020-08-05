@@ -3,7 +3,7 @@
 A scheduler and resource planning component built for React and made for modern browsers (IE10+), IE needs babel-polyfill.  
 **From the npm version 0.2.6, Scheduler will use responsive layout by default(set SchedulerData.config.schedulerWidth to a percentage instead of a number).**
 
-[Online demo](https://stephenchou1017.github.io/scheduler/#/)
+[Online demo]
 
 Inspired by [Full Calendar Scheduler](https://fullcalendar.io/scheduler/).
 
